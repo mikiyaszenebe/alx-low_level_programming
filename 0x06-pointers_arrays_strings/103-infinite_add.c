@@ -24,4 +24,5 @@ void rev_string(char *n)
 		*(n + j) = *(n + i);
 		*(n + i) = temp;
 	}
+	return(0);
 }
