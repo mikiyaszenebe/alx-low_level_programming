@@ -1,1 +1,1 @@
-Projects on "0x09. C - Static libraries" session.
+projects on "0x09. C - Static libraries" session.
