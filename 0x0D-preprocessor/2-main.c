@@ -8,7 +8,6 @@
  */
 int main(void)
 {
-	/* Print the name of the current source file using the __FILE__ macro */
-	printf("This program is in file: %s\n", __FILE__);
+	printf("%s\n", __FILE__);
 	return (0);
 }
